@@ -1,0 +1,9 @@
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\bin\Release\PracticeGame_v1.0.exe.config
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\bin\Release\PracticeGame_v1.0.exe
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\bin\Release\PracticeGame_v1.0.pdb
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\obj\Release\PracticeGame_v1.0.csprojResolveAssemblyReference.cache
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\obj\Release\PracticeGame_v1._0.practiceGameForm.resources
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\obj\Release\PracticeGame_v1._0.Properties.Resources.resources
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\obj\Release\PracticeGame_v1.0.csproj.GenerateResource.Cache
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\obj\Release\PracticeGame_v1.0.exe
+E:\Capstone\Practice Game\PracticeGame_v1.0\PracticeGame_v1.0\obj\Release\PracticeGame_v1.0.pdb
